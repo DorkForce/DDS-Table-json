@@ -132,7 +132,7 @@
       "details": "Set at a community college in the fictional Colorado town of Greendale, the series stars an ensemble cast including Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, Chevy Chase, and Jim Rash.",
       "tags": [
         "comedy",
-        "complete",
+        "incomplete",
         "romance",
         "live-action",
         "culture"
@@ -168,21 +168,6 @@
       "url": "https://www.imdb.com/title/tt10684374/?ref_=nv_sr_srsg_0",
       "tip": "Lighthearted and silly, with a mini song in almost every episode.",
       "date": "10/01/2021"
-    },
-    {
-      "id": 7,
-      "name": "Farscape",
-      "details": "Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.",
-      "tags": [
-        "teen",
-        "live-action",
-        "drama",
-        "complete",
-        "scifi"
-      ],
-      "url": "https://www.imdb.com/title/tt0187636/",
-      "tip": "Amazingly intricate puppetry, completed upon fan demand",
-      "date": "03/19/1999"
     }
   ]
 }
