@@ -1,0 +1,188 @@
+{
+  "components": [
+    {
+      "component": "Accordion",
+      "platform": ["Figma UI Kit", "Angular", "Vanilla"],
+      "status": ["Published", "In Backlog", "Published"]
+    },
+    {
+      "component": "Action Menu",
+      "platform": ["Figma UI Kit", "Angular", "Vanilla"],
+      "status": ["Published", "Published", "In Backlog"]
+    },{
+      "component": "Badge",
+      "platform": ["Figma UI Kit", "Angular", "Vanilla"],
+      "status": ["In Backlog", "Published", "Published"]
+    }
+  ],
+  "grades": [
+    {
+      "name": "John Smith",
+      "date": "01/02/2023",
+      "score": 33
+    },
+    {
+      "name": "Larry Hackson",
+      "date": "09/30/2001",
+      "score": 57
+    },
+    {
+      "name": "John Smith",
+      "date": "07/08/2023",
+      "score": 98
+    },
+    {
+      "name": "Sarah Jane",
+      "date": "04/15/1968",
+      "score": 99
+    },
+    {
+      "name": "Ziggy Omundson",
+      "date": "11/15/1988",
+      "score": 88
+    },
+    {
+      "name": "Sarah Jane",
+      "date": "09/16/1993",
+      "score": 77
+    },
+    {
+      "name": "John Smith",
+      "date": "03/04/2023",
+      "score": 76
+    },
+    {
+      "name": "Lucy Billings",
+      "date": "04/22/1996",
+      "score": 80
+    },
+    {
+      "name": "Karen Miller",
+      "date": "05/05/2005",
+      "score": 55
+    }
+  ],
+  "series": [
+    {
+      "id": 0,
+      "name": "Gravity Falls",
+      "details": "An American mystery comedy animated television series created by Alex Hirsch for Disney Channel and Disney XD.",
+      "tags": [
+        "mystery",
+        "animation",
+        "comedy",
+        "scifi",
+        "romance",
+        "complete"
+      ],
+      "url": "https://disneynow.com/shows/gravity-falls",
+      "tip": "Very Re-watchable, many one-liners, and lots of online extra content.",
+      "date": "06/15/2012"
+    },
+    {
+      "id": 1,
+      "name": "Eureka",
+      "details": "Set in the fictional town of Eureka, Southern Oregon. Most residents of Eureka are scientific geniuses who work for Global Dynamics – an advanced research facility responsible for the development of nearly all major technological breakthroughs since its inception.",
+      "tags": [
+        "scifi",
+        "comedy",
+        "romance",
+        "live-action",
+        "complete"
+      ],
+      "url": "https://www.imdb.com/title/tt0796264/",
+      "tip": "Ingenious writers adapted to the writer's strike of the time.  Good crossover with Warehouse 13.",
+      "date": "07/18/2006"
+    },
+    {
+      "id": 2,
+      "name": "Being Erica",
+      "details": "The show stars Erin Karpluk as Erica Strange, a woman who begins seeing a therapist to deal with regrets in her life, only to discover a therapist (Michael Riley) who has the ability to send her back in time to actually relive these events and even change them.",
+      "tags": [
+        "romance",
+        "trauma",
+        "scifi",
+        "healing",
+        "comedy",
+        "live-action",
+        "complete"
+      ],
+      "url": "https://www.imdb.com/title/tt1149608/",
+      "tip": "Progresses well, and avoids creating boredom by reinventing its purpose throughout.",
+      "date": "01/05/2009"
+    },
+    {
+      "id": 3,
+      "name": "Other Space",
+      "details": "Other Space is an American science fiction comedy streaming television series created by Paul Feig for Yahoo! Screen. Set in the 22nd century, it follows the dysfunctional crew of an exploratory spaceship who become trapped in an unknown universe.",
+      "tags": [
+        "scifi",
+        "comedy",
+        "parody",
+        "live-action",
+        "incomplete"
+      ],
+      "url": "https://www.imdb.com/title/tt4561950/",
+      "tip": "Sadly only one season due to Yahoo's streaming failure, but still worth watching.",
+      "date": "04/14/2015"
+    },
+    {
+      "id": 4,
+      "name": "Community",
+      "details": "Set at a community college in the fictional Colorado town of Greendale, the series stars an ensemble cast including Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, Chevy Chase, and Jim Rash.",
+      "tags": [
+        "comedy",
+        "complete",
+        "romance",
+        "live-action",
+        "culture"
+      ],
+      "url": "https://www.nbc.com/community/about",
+      "tip": "Stays strong throughout, despite later season cast changes.",
+      "date": "09/17/2009"
+    },
+    {
+      "id": 5,
+      "name": "Agents of SHIELD",
+      "details": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division.",
+      "tags": [
+        "scifi",
+        "drama",
+        "live-action",
+        "complete"
+      ],
+      "url": "https://www.imdb.com/title/tt2364582/?ref_=nv_sr_srsg_0",
+      "tip": "Absolutely rock solid stories even though Marvel didn't keep its continuity promise.",
+      "date": "09/24/2013"
+    },
+    {
+      "id": 6,
+      "name": "The Ghost and Molly McGee",
+      "details": "A grumpy ghost named Scratch is eternally cursed to be in the presence of polar opposite Molly McGee, a cheerful tween.",
+      "tags": [
+        "youth",
+        "animation",
+        "comedy",
+        "ongoing"
+      ],
+      "url": "https://www.imdb.com/title/tt10684374/?ref_=nv_sr_srsg_0",
+      "tip": "Lighthearted and silly, with a mini song in almost every episode.",
+      "date": "10/01/2021"
+    },
+    {
+      "id": 7,
+      "name": "Farscape",
+      "details": "Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.",
+      "tags": [
+        "teen",
+        "live-action",
+        "drama",
+        "complete",
+        "scifi",
+      ],
+      "url": "https://www.imdb.com/title/tt0187636/",
+      "tip": "Amazingly intricate puppetry, completed upon fan demand",
+      "date": "03/19/1999"
+    }
+  ]
+}
