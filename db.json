@@ -69,6 +69,54 @@
       "name": "Karen Miller",
       "date": "05/05/2005",
       "score": 55
+    },
+    {
+      "id": 9,
+      "name": "Heather Brimes",
+      "date": "05/05/2003",
+      "score": 23
+    },
+    {
+      "id": 10,
+      "name": "Jon Smashing",
+      "date": "05/05/1985",
+      "score": 75
+    },
+    {
+      "id": 11,
+      "name": "George Fren",
+      "date": "05/05/1999",
+      "score": 82
+    },
+    {
+      "id": 12,
+      "name": "Lacy Crown",
+      "date": "05/05/1998",
+      "score": 98
+    },
+    {
+      "id": 13,
+      "name": "Ada O'Brien",
+      "date": "05/05/1997",
+      "score": 76
+    },
+    {
+      "id": 14,
+      "name": "Alice Baker",
+      "date": "05/05/1976",
+      "score": 99
+    },
+    {
+      "id": 15,
+      "name": "Fred Miller",
+      "date": "05/05/2001",
+      "score": 78
+    },
+    {
+      "id": 16,
+      "name": "JP Montague",
+      "date": "05/05/2010",
+      "score": 46
     }
   ],
   "series": [
